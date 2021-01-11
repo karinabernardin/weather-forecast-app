@@ -15,3 +15,7 @@ or
 ### To deploy new version: 
 
 `git push heroku main`: for heroku remote already configured in repository
+
+### To access web app:
+
+`https://discover-your-weather.herokuapp.com/`
